@@ -90,6 +90,7 @@
     padding-left: 159px;
     width: 1140px;
     height: 328px;
+    padding-bottom: 110px;
     
 }
 .head{
@@ -113,6 +114,24 @@
     width: 403px;
     height: 328px;
     gap: 220px;
+    
+
+}
+
+.title-container{
+   background-color: aqua;
+   /* width: 1140px;
+   height: 306px; */
+   text-align: center;
+   padding: 30px 40px;
+   margin: 128px 159px 0 142px;
+}
+.containar-title{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    text-align: center;
+    gap: 40px;
     
 
 }
