@@ -247,3 +247,36 @@ input[type="text"] , input[type="email"],form [type="textarea"]{
     font-weight: bold;
     border: none;
 }
+.foot {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-title h1{
+    font-size: 100px;
+    width: 291px;
+    height: 121px;
+    color: #4E47FF;
+    
+}
+.footer-title p{
+    width: 531px;
+    height: 48px;
+    color: #8987A1;
+}
+.nav  li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+
+
+}
+.nav li a{
+    text-decoration: none;
+    color: #8987A1;
+    
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
