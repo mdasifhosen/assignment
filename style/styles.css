@@ -24,8 +24,6 @@ nav{
     justify-content: space-between;
     margin: 0 auto;
     gap: 158px;
-
-   
 }
 nav h1{
     
@@ -45,9 +43,6 @@ nav button{
     border: none;
     width: 132px;
     height: 48px;
-    
-    
-    
 }
 .title-bar{
     width: 800px;
@@ -55,14 +50,7 @@ nav button{
     margin-top: 80px;
     display: flex;
     flex-direction: column;
-
-    
-    
-      
-    
 }
-
-
 .title{
    
     color: #252432;
@@ -71,7 +59,6 @@ nav button{
     width: 905px;
     height: 152px;
     /* padding: 0 0 0 200px; */
-      
 }
 .title-bar button{
     font-size: 16px;
